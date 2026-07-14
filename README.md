@@ -11,11 +11,6 @@ Built as part of the **Crixsoft Solution Web Development Internship** 🚀
 </div>
 
 ---
-
-## 📸 Preview
-
-![Fitlife Preview](./readme-images/desktop.png)
-
 ## ✨ Features
 
 - 🏠 **Hero Section** — bold intro with call-to-action and animated stat badges (heart rate, calories)
@@ -58,7 +53,7 @@ fitlife/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<abrarquadri>/Crixsoft-Solution_PrimeFit-Gym-Website.git
+git clone https://github.com/<abrarquadri24>/Crixsoft-Solution_PrimeFit-Gym-Website.git
 
 # Navigate into the project folder
 cd Crixsoft-Solution_Fitlife-Gym-Website
@@ -82,9 +77,8 @@ This project was completed as part of the **Web Development Internship at Crixso
 
 ## 📬 Contact
 
-**Crixsoft Solution**
-🌐 [www.crixsoftsolution.com](http://www.crixsoftsolution.com)
-📧 info@crixsoftsolution.com
+**Abrar Quadri**
+
 💼 [LinkedIn](https://www.linkedin.com/in/abrarquadri)
 
 ## 📄 License
